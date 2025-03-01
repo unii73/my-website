@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Post 1: Introduction to Quarto\nPost 2: My First Project\nPost 3: Learning Web Development"
+  },
+  {
+    "objectID": "blog.html#recent-posts",
+    "href": "blog.html#recent-posts",
+    "title": "Blog",
+    "section": "",
+    "text": "Post 1: Introduction to Quarto\nPost 2: My First Project\nPost 3: Learning Web Development"
+  },
+  {
+    "objectID": "post2.html",
+    "href": "post2.html",
+    "title": "My First Project",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse accumsan, sapien nec auctor ultrices, odio orci cursus risus, at facilisis ligula odio a odio."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About me",
+    "section": "",
+    "text": "Yuning is a PhD student in Southeast University, working on Chinese classical gardens. This website showcases my projects and thoughts on various topics."
+  },
+  {
+    "objectID": "work.html",
+    "href": "work.html",
+    "title": "Work",
+    "section": "",
+    "text": "Project 1: Biographies of Chinese Artists and Classical Gardens\nProject 2: Knowledge Base of Garden Literature from the Ming and Qing Dynasties\nProject 3: Ming Dynasty Jiangnan Garden Art Thought"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Yuning Zhuang",
+    "section": "",
+    "text": "This is Yuning Zhuang’s personal website."
+  },
+  {
+    "objectID": "post1.html",
+    "href": "post1.html",
+    "title": "Introduction to Quarto",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin tristique suscipit ante, vel blandit nulla feugiat a."
+  },
+  {
+    "objectID": "post3.html",
+    "href": "post3.html",
+    "title": "Learning Web Development",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae sapien hendrerit, porttitor risus id, malesuada erat."
+  }
+]
