@@ -1,0 +1,10 @@
+---
+title: "About me"
+image: image/wzm.jpg
+about:
+    template: jolla
+---
+
+
+Yuning is a PhD student in Southeast University, working on Chinese classical gardens. This website showcases my projects and thoughts on various topics.
+

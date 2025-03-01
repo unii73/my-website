@@ -1,0 +1,26 @@
+project:
+  type: website
+
+website:
+  title: "Yuning Zhuang"
+  navbar:
+    background: black
+    left:              
+      - href: about.qmd
+        text: About
+      - href: work.qmd
+        text: Work
+      - href: blog.qmd
+        text: Blog
+  page-footer:
+    center: "© 2025 Yuning Zhuang"
+    left: "Built with [Quarto](https://quarto.org/)"
+    right: "Find me on [GitHub](https://github.com/yourusername)"
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true

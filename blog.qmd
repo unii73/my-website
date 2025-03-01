@@ -1,0 +1,10 @@
+---
+title: "Blog"
+format: html
+---
+
+## Recent Posts
+
+- [Post 1: Introduction to Quarto](post1.qmd)
+- [Post 2: My First Project](post2.qmd)
+- [Post 3: Learning Web Development](post3.qmd)

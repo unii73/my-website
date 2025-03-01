@@ -1,0 +1,9 @@
+---
+title: "Introduction to Quarto"
+author: "Yuning"
+date: "2025-03-01"
+categories: [Quarto, Markdown]
+format: html
+---
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin tristique suscipit ante, vel blandit nulla feugiat a. 
